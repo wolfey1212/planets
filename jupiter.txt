@@ -1,1 +1,3 @@
 Forget mars, I'm going to jupiter.  Mike's coming in.
+Forget mars, I'm going to jupiter.
+Additional changes that should make a conflict.
